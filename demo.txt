@@ -1,0 +1,30 @@
+Threading ---> Heavy performance created new threads
+Callbacks ----> 
+Futures, promises, and others 
+Reactive Extensions  RXJava Observable and Oserevres 3 O's
+Coroutines --> Kotlin
+
+Asynchronous Programming
+
+
+fun loadData(loadUi){
+    //
+    //
+    loadUI()
+
+}
+
+fun loadUI{
+
+}
+loadData(loadUi)
+
+let obj = new Promise(){
+
+}
+
+watchers() --> Observers()
+
+resolved
+rejected
+waiting
